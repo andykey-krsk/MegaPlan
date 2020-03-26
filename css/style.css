@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.desctop {
+    width: auto;
+    height: 100vh;
+    background-color: #ccc;
+    padding: 40px;
+}
+
+.page {
+    width: 200px;
+    height: 400px;
+    background-color: red;
+}
